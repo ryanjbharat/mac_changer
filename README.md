@@ -1,3 +1,3 @@
-Mac Address changer.
-This is taken from Zaid Sahib's Udemy course on Python and Ethical Hacking.
-Updated it for newer Python modules. 
+MAC address changer. 
+Taken from Zaid Sabih Udemy course.
+Updated program to Python3 and newer modules.
